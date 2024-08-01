@@ -7,13 +7,13 @@ Hero Geo Location CLI is a simple command-line tool to get geographical coordina
 To install the package globally, run:
 
 ```sh
-npm install -g my-geo-location-cli
+npm install -g hero-geo-location
 ```
 
 To use the package in your JavaScript project, run:
 
 ```sh
-npm install my-geo-location-cli
+npm install hero-geo-location
 ```
 
 ## Usage
@@ -47,7 +47,7 @@ const {
   getGeoLocation,
   getReverseGeoLocation,
   searchLocation,
-} = require("my-geo-location-cli");
+} = require("hero-geo-location");
 
 // Forward geocoding
 getGeoLocation("country,city,street,zipcode")
@@ -167,7 +167,7 @@ const {
   getGeoLocation,
   getReverseGeoLocation,
   searchLocation,
-} = require("my-geo-location-cli");
+} = require("hero-geo-location");
 
 // Forward geocoding
 getGeoLocation("Germany, Berlin, Unter den Linden, 10117")
