@@ -1,5 +1,5 @@
 {
-  "name": "geo-location",
+  "name": "hero-geo-location",
   "version": "1.0.0",
   "description": "A CLI tool to get geographical coordinates from an address",
   "main": "index.js",

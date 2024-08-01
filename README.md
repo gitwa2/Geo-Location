@@ -1,6 +1,6 @@
-# Geo Location CLI
+# Hero Geo Location CLI
 
-Geo Location CLI is a simple command-line tool to get geographical coordinates (latitude and longitude) from an address, get an address from coordinates, or search for locations using the Nominatim OpenStreetMap API.
+Hero Geo Location CLI is a simple command-line tool to get geographical coordinates (latitude and longitude) from an address, get an address from coordinates, or search for locations using the Nominatim OpenStreetMap API.
 
 ## Installation
 
